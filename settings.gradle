@@ -1,0 +1,6 @@
+include ':buildsystem'
+include ':data'
+include ':domain'
+include ':timerview'
+include ':app'
+rootProject.name = "DesignApp"

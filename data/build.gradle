@@ -1,0 +1,9 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+    id 'kotlinx-serialization'
+}
+
+dependencies {
+    implementation project(":domain")
+    implementation rootProject.ext.dataDependencies
+}

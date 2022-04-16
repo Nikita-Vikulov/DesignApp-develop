@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">DesignAppProject</string>
+    <string name="hi">Hi</string>
+    <string name="are_you_ready">Are you ready for exams?</string>
+    <string name="lessons">Lessons</string>
+    <string name="home">Home</string>
+    <string name="homework">Homework</string>
+    <string name="lessons_today">%1$s lessons today</string>
+    <string name="connection_failed">Failed to connect to server</string>
+    <string name="homework_days_left">%1$s days left</string>
+    <string name="open_in">Open in</string>
+    <string name="teacher">Teacher: %1$s</string>
+</resources>

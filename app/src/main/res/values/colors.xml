@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1C1D21</color>
+    <color name="primaryLighter">#24252A</color>
+    <color name="iconsBackground">#313131</color>
+    <color name="lime">#38F187</color>
+    <color name="redDarker">#D6496D</color>
+    <color name="limeDarker">#05BEB6</color>
+</resources>
